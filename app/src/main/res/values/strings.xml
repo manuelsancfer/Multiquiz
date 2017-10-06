@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="Question">Question</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="enrere">Previous</string>
+
+    <integer name="correct_answers">0</integer>
+
+
+    <array name="all_questions">
+        <item>What is the largest country in the world?;*Russia;China;Canada; United States</item>
+        <item>¿2-2?;1;C;*0;5555;</item>
+    </array>
+</resources>

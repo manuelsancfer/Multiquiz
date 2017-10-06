@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="Question">Pregunta</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Finalizar</string>
+    <string name="enrere">Anterior</string>
+
+
+
+    <array name="all_questions">
+        <item>¿Cuál es el país más grande del mundo?;*Rusia;China;Canadá;Estados unidos</item>
+        <item>¿2-2?;1;C;*0;5555;</item>
+    </array>
+
+</resources>

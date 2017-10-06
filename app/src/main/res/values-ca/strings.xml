@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="Question">Pregunta</string>
+    <string name="next">Següent</string>
+    <string name="finish">Finalitzar</string>
+    <string name="enrere">Enrere</string>
+
+
+
+    <array name="all_questions">
+        <item>Quin és el país més gran del món?;*Rússia;Xina;Canadà;Estats Units</item>
+        <item>¿2-2?;1;C;*0;5555;</item>
+    </array>
+</resources>
